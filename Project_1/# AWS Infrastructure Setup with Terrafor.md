@@ -38,7 +38,7 @@ This setup is ideal for developers looking to automate the provisioning of a sec
 
 ## Architecture Overview
 
-![Server Output](op.png)
+![Server Output](serveroutput.png)
 
 ## Notes
 
